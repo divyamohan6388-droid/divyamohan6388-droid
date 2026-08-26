@@ -1,34 +1,38 @@
 # Hi, I'm Divya Mohan 👋
 
-### 🎓 Computer Science & Data Analytics Student | Aspiring Data Scientist
+### 🎓 Computer Science & Data Analytics Student | Data Science & Machine Learning
 
-I'm a **B.S. Computer Science and Data Analytics student at IIT Patna**, passionate about using data, machine learning, and analytics to solve real-world problems.
+I'm a **B.S. Computer Science and Data Analytics student at IIT Patna** with a **9.44 CPI**, interested in Data Science, Machine Learning, Analytics, and AI.
 
-I'm building my experience through **data science projects, internships, machine learning applications, and business analytics**.
+I enjoy working with real-world datasets, building predictive models, extracting actionable insights, and developing data-driven solutions.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.S. in Computer Science and Data Analytics — **IIT Patna**
-* 📅 Expected Graduation: **2029**
-* 📊 Interested in **Data Science, Machine Learning & Data Analytics**
-* 🐍 Programming with **Python**
-* 🗄️ Working with **SQL & PostgreSQL**
-* 📈 Creating dashboards and reports using **Power BI**
-* 🤖 Building and evaluating **Machine Learning models**
-* 💼 Experience in **Data Science & Analytics internships**
-* 🌱 Continuously improving my skills in **Machine Learning, Statistics & Data Analytics**
+* 🎓 **B.S. Computer Science & Data Analytics** — IIT Patna
+* 📊 **9.44 CPI** — First Year
+* 🐍 Python & SQL enthusiast
+* 🤖 Interested in **Machine Learning & Predictive Modeling**
+* 📈 Experienced in **EDA, Data Visualization & Business Analytics**
+* 🗄️ Working with **PostgreSQL & SQL**
+* 📊 Building dashboards and reports with **Power BI**
+* 👥 Led a **20+ member cross-functional team** during a Data Science capstone
+* 🔬 Selected for a **Summer Research Internship at NIT Delhi**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
+
+**Python • SQL**
+
+---
 
 ### 📊 Data Science & Visualization
 
@@ -37,17 +41,15 @@ I'm building my experience through **data science projects, internships, machine
   <img src="https://cdn.simpleicons.org/numpy/013243" height="50"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" height="50"/>
   <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="50"/>
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="50"/>
 </p>
 
-**Skills:** Data Cleaning • Exploratory Data Analysis • Data Visualization • Feature Engineering • Statistical Analysis
+**NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn**
 
-### 🗄️ Databases
+**Skills:**
+Data Cleaning • Exploratory Data Analysis • Data Visualization • Feature Engineering • Statistical Analysis • Predictive Modeling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-</p>
-
-**Skills:** SQL • PostgreSQL • Data Querying • Joins • Aggregations • Data Analysis
+---
 
 ### 🤖 Machine Learning
 
@@ -55,7 +57,26 @@ I'm building my experience through **data science projects, internships, machine
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50"/>
 </p>
 
-**Skills:** Predictive Modeling • Model Evaluation • Feature Engineering • Demand Forecasting
+**Techniques:**
+Logistic Regression • Random Forest • Linear Regression • Model Evaluation • Cross Validation
+
+**Metrics:**
+R² • MAE • RMSE • MAPE • Accuracy
+
+**Statistical Analysis:**
+T-Tests • ANOVA • Correlation Analysis
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+</p>
+
+**SQL • PostgreSQL**
+
+---
 
 ### 📈 Business Intelligence
 
@@ -63,92 +84,161 @@ I'm building my experience through **data science projects, internships, machine
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50"/>
 </p>
 
-**Skills:** Power BI • Dashboard Development • Reports • Data Storytelling • KPI Analysis
+**Power BI • Dashboard Development • KPI Analysis • Data Storytelling**
 
-### 🔧 Tools & Platforms
+---
+
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="50"/>
+  <img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode,jupyter" height="50"/>
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Supply Chain Demand Prediction System
-
-An end-to-end machine learning application designed to forecast product demand using supply chain and operational factors.
-
-**Focus:** Python • Machine Learning • Demand Forecasting • Data Preprocessing • Feature Engineering • Model Evaluation
+**Streamlit • Git • GitHub • VS Code • Jupyter**
 
 ---
 
-### 🔹 Business Sales Performance Analytics
+# 📌 Featured Work
 
-Analyzed business sales data to identify trends, performance patterns, and key business insights.
+## 🔹 Supply Chain Analytics & Demand Prediction
 
-**Focus:** Python • Pandas • EDA • Data Visualization • Power BI • Business Analytics
+An end-to-end Data Science project focused on supply chain analytics and predictive modeling.
+
+* Led a **20+ member cross-functional team** across 4 project phases.
+* Cleaned and preprocessed a **180,000+ row** real-world supply chain dataset.
+* Handled missing values, duplicates, feature encoding, and data type corrections.
+* Built and evaluated **Logistic Regression and Random Forest** models.
+* Achieved model accuracy in the **83–88% range**.
+* Applied **T-Tests, ANOVA, and correlation analysis** for statistical validation.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Statistics • Machine Learning
 
 ---
 
-### 🔹 Marketing Funnel & Conversion Analysis
+## 🔹 Retail Sales Data Analysis
 
-Analyzed marketing funnel data to identify customer drop-off points and understand conversion performance.
+Analyzed a retail sales dataset to identify revenue trends and business insights.
 
-**Focus:** SQL • Data Analysis • EDA • Visualization • Power BI • Conversion Analytics
+* Performed EDA on a **200-record dataset**.
+* Analyzed sales across **6 Indian cities and 5 product categories**.
+* Created Bar Charts, Scatter Plots, and Heatmaps.
+* Derived **5 actionable business insights**.
+
+**Tech:** Python • Pandas • Matplotlib • Seaborn • EDA
 
 ---
 
-## 💼 Experience
+## 🔹 House Price Prediction
+
+Developed a complete Linear Regression machine learning pipeline.
+
+* Worked with a **1,000-record dataset**.
+* Created **3 derived features** through feature engineering.
+* Applied StandardScaler normalization.
+* Used an **80/20 train-test split**.
+* Achieved an **R² score of 0.82**.
+* Evaluated the model using R², MAE, RMSE, MAPE, and **5-Fold Cross Validation**.
+* Built a custom function for real-time house price estimation.
+
+**Tech:** Python • Pandas • Scikit-learn • Linear Regression • Feature Engineering
+
+---
+
+## 🔹 Business Sales & Marketing Analytics
+
+Performed end-to-end analysis across sales and marketing datasets.
+
+* Analyzed **1,000+ records** across datasets with 20–25 features.
+* Identified a **52.5% order loss rate** through delivery analysis.
+* Found that discounts above **15% generated negative margins**.
+* Analyzed **$12.7M total revenue** with a **25.02% average profit margin**.
+* Compared 5 marketing channels and 5 campaigns.
+* Identified Email as the top-performing channel with **442% ROAS**.
+* Created **28 data visualizations** using Python.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analytics
+
+---
+
+# 💼 Experience
 
 ### Data Scientist Intern — Team Lead
 
 **Evoastra Ventures Pvt. Ltd.**
 
-* Worked on a supply chain demand prediction system.
-* Developed machine learning solutions for demand forecasting.
-* Applied data preprocessing, feature engineering, and model evaluation.
-* Collaborated on translating business requirements into data-driven solutions.
+Led a cross-functional team of 20+ interns while working on an end-to-end AI and Data Science capstone focused on Supply Chain Analytics.
 
-### Data Science & Analytics Intern
-
-**FutureIntern**
-
-* Worked on business sales performance analytics.
-* Conducted marketing funnel and conversion analysis.
-* Applied exploratory data analysis and data visualization techniques.
+**Focus:** Data Analytics • Machine Learning • AI Systems • Application Deployment
 
 ---
 
-## 📜 Certifications
+### Python Developer Intern
 
-* 🏆 AWS Certified Data and Machine Learning
-* 🏆 TCS iON Career Edge — Young Professional
-* 🏆 Yuva AI — IndiaAI
-* 🏆 Python Using AI — AI for Techies
+**SR India**
 
----
+Worked on exploratory data analysis, data visualization, machine learning, and numerical computing projects using Python.
 
-## 🎯 Current Goal
-
-I'm looking for opportunities where I can apply my **Python, SQL, PostgreSQL, Power BI, data analytics, and machine learning skills** to real-world problems while continuing to grow as a Data Scientist.
+**Focus:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
 ---
 
-## 📫 Connect With Me
+### Data Analytics Intern
+
+**Future Intern**
+
+Worked on business sales performance and marketing funnel analysis using Python-based data analytics workflows.
+
+**Focus:** EDA • Business Analytics • Data Visualization • Python
+
+---
+
+# 🏆 Achievements
+
+🎓 **9.44 CPI** — First Year, IIT Patna
+
+🔬 **Selected for Summer Research Internship**
+Department of Computer Science, National Institute of Technology, Delhi
+
+👥 **Led 20+ interns** across a multi-phase AI & Data Science capstone project
+
+---
+
+# 📜 Certifications & Simulations
+
+* AWS Certified Data and Machine Learning
+* TCS iON Career Edge — Young Professional
+* HP LIFE — Data Science & Analytics
+* TCS iON Certified YUVA AI — India AI
+* JPMorgan Chase & Co. — Quantitative Research Job Simulation
+* DATACOM — Software Development Job Simulation
+* AI FOR TECHIES — Python Using AI
+
+---
+
+# 🎯 Currently
+
+I'm focused on strengthening my foundations in:
+
+**Data Science → Statistics → Machine Learning → SQL → Business Analytics**
+
+and building practical projects that solve real-world problems using data.
+
+---
+
+# 📫 Let's Connect
 
 <p>
-  <a href="mailto:divyamohan6388@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/divya-mohan-a42b12389">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/divyamohan6388-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:divyamohan6388@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+⭐ **Thanks for visiting my profile! Explore my repositories to see what I'm building.**
