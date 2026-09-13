@@ -160,31 +160,3 @@ Data Analytics Intern
 ├── Sales & Profitability Analysis
 ├── Marketing Funnel Analysis
 └── Data-Driven Recommendations
-
-# 🎯 Currently
-
-I'm focused on strengthening my foundations in:
-
-**Data Science → Statistics → Machine Learning → SQL → Business Analytics**
-
-and building practical projects that solve real-world problems using data.
-
----
-
-# 📫 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/divya-mohan-a42b12389">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/divyamohan6388-droid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:divyamohan6388@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **Thanks for visiting my profile! Explore my repositories to see what I'm building.**
