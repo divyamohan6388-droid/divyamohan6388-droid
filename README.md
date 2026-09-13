@@ -1,219 +1,165 @@
-# Hi, I'm Divya Mohan 👋
+<!-- Profile Header -->
+<div align="center">
 
-### 🎓 Computer Science & Data Analytics Student | Data Science & Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Divya%20Mohan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-I'm a **B.S. Computer Science and Data Analytics student at IIT Patna** with a **9.44 CPI**, interested in Data Science, Machine Learning, Analytics, and AI.
-
-I enjoy working with real-world datasets, building predictive models, extracting actionable insights, and developing data-driven solutions.
-
----
-
-## 🚀 About Me
-
-* 🎓 **B.S. Computer Science & Data Analytics** — IIT Patna
-* 📊 **9.44 CPI** — First Year
-* 🐍 Python & SQL enthusiast
-* 🤖 Interested in **Machine Learning & Predictive Modeling**
-* 📈 Experienced in **EDA, Data Visualization & Business Analytics**
-* 🗄️ Working with **PostgreSQL & SQL**
-* 📊 Building dashboards and reports with **Power BI**
-* 👥 Led a **20+ member cross-functional team** during a Data Science capstone
-* 🔬 Selected for a **Summer Research Internship at NIT Delhi**
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Analytics+Student;Data+Science+%7C+Machine+Learning+Enthusiast;Python+Developer+%7C+Problem+Solver;Building+Projects+with+Data+and+AI;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <a href="https://www.linkedin.com/in/divya-mohan-a42b12389">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:divyamohan6388@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/divyamohan6388-droid">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-**Python • SQL**
+</div>
 
 ---
 
-### 📊 Data Science & Visualization
+## 👋 About Me
+
+🎓 I’m **Divya Mohan**, pursuing a **B.S. in Computer Science and Data Analytics at IIT Patna**.
+
+I’m interested in **Data Science, Machine Learning, Artificial Intelligence, Statistical Learning, and Python development**.
+
+Although I’m still in the early stage of my degree, I enjoy building practical projects and exploring how data can be transformed into useful insights and intelligent solutions.
+
+### ⚡ Quick Facts
+
+- 🎓 IIT Patna — B.S. Computer Science and Data Analytics
+- 📈 First-year CPI: **9.44**
+- 🧠 Worked with datasets containing **180,000+ rows**
+- 🤖 Built projects using Regression, Classification, and Random Forest
+- 👥 Led a team of **20+ interns** during an AI and Data Science project
+- 🔬 Selected for a Summer Research Internship at **NIT Delhi**
+- 🌱 Currently learning advanced ML, statistics, and research-oriented problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="50"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="50"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="50"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
-**NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn**
-
-**Skills:**
-Data Cleaning • Exploratory Data Analysis • Data Visualization • Feature Engineering • Statistical Analysis • Predictive Modeling
-
----
-
-### 🤖 Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </p>
-
-**Techniques:**
-Logistic Regression • Random Forest • Linear Regression • Model Evaluation • Cross Validation
-
-**Metrics:**
-R² • MAE • RMSE • MAPE • Accuracy
-
-**Statistical Analysis:**
-T-Tests • ANOVA • Correlation Analysis
-
----
-
-### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-008080?style=for-the-badge"/>
 </p>
 
-**SQL • PostgreSQL**
-
----
-
-### 📈 Business Intelligence
+### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres,git,github" />
 </p>
-
-**Power BI • Dashboard Development • KPI Analysis • Data Storytelling**
-
----
-
-### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode,jupyter" height="50"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-**Streamlit • Git • GitHub • VS Code • Jupyter**
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 DataLens
+
+**CSV Explorer & Visual Insights Dashboard**
+
+An interactive application for exploring CSV datasets, performing analysis, and generating useful visual insights.
+
+**Tech:** Python · Pandas · NumPy · Streamlit
+
+</td>
+
+<td width="50%">
+
+### 🏠 HomePricer
+
+**ML-Powered House Price Prediction**
+
+A machine learning project involving feature engineering, normalization, regression, model evaluation, and real-time prediction.
+
+**Tech:** Python · Scikit-learn · Linear Regression
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔢 MatrixMaster
+
+**Interactive NumPy Matrix Console**
+
+A numerical computing application supporting matrix arithmetic, determinant, inverse, eigenvalues, rank, and trace operations.
+
+**Tech:** Python · NumPy
+
+</td>
+
+<td width="50%">
+
+### 📈 Business Analytics
+
+**Sales & Marketing Funnel Analysis**
+
+Analytics projects focused on sales performance, profitability, customer segments, marketing channels, and business recommendations.
+
+**Tech:** Python · Pandas · Matplotlib · Seaborn
+
+</td>
+</tr>
+</table>
+
+> 📌 More projects and improvements are coming soon!
 
 ---
 
-# 📌 Featured Work
+## 💼 Experience Highlights
 
-## 🔹 Supply Chain Analytics & Demand Prediction
+```text
+Python Developer Intern
+├── Exploratory Data Analysis
+├── Data Visualization
+├── Linear Regression Pipeline
+├── Model Evaluation
+└── NumPy Matrix Operations Console
 
-An end-to-end Data Science project focused on supply chain analytics and predictive modeling.
+Data Scientist Intern / Team Lead
+├── Led 20+ interns
+├── Supply Chain Analytics
+├── Data Cleaning on 180,000+ rows
+├── Logistic Regression
+└── Random Forest
 
-* Led a **20+ member cross-functional team** across 4 project phases.
-* Cleaned and preprocessed a **180,000+ row** real-world supply chain dataset.
-* Handled missing values, duplicates, feature encoding, and data type corrections.
-* Built and evaluated **Logistic Regression and Random Forest** models.
-* Achieved model accuracy in the **83–88% range**.
-* Applied **T-Tests, ANOVA, and correlation analysis** for statistical validation.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Statistics • Machine Learning
-
----
-
-## 🔹 Retail Sales Data Analysis
-
-Analyzed a retail sales dataset to identify revenue trends and business insights.
-
-* Performed EDA on a **200-record dataset**.
-* Analyzed sales across **6 Indian cities and 5 product categories**.
-* Created Bar Charts, Scatter Plots, and Heatmaps.
-* Derived **5 actionable business insights**.
-
-**Tech:** Python • Pandas • Matplotlib • Seaborn • EDA
-
----
-
-## 🔹 House Price Prediction
-
-Developed a complete Linear Regression machine learning pipeline.
-
-* Worked with a **1,000-record dataset**.
-* Created **3 derived features** through feature engineering.
-* Applied StandardScaler normalization.
-* Used an **80/20 train-test split**.
-* Achieved an **R² score of 0.82**.
-* Evaluated the model using R², MAE, RMSE, MAPE, and **5-Fold Cross Validation**.
-* Built a custom function for real-time house price estimation.
-
-**Tech:** Python • Pandas • Scikit-learn • Linear Regression • Feature Engineering
-
----
-
-## 🔹 Business Sales & Marketing Analytics
-
-Performed end-to-end analysis across sales and marketing datasets.
-
-* Analyzed **1,000+ records** across datasets with 20–25 features.
-* Identified a **52.5% order loss rate** through delivery analysis.
-* Found that discounts above **15% generated negative margins**.
-* Analyzed **$12.7M total revenue** with a **25.02% average profit margin**.
-* Compared 5 marketing channels and 5 campaigns.
-* Identified Email as the top-performing channel with **442% ROAS**.
-* Created **28 data visualizations** using Python.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analytics
-
----
-
-# 💼 Experience
-
-### Data Scientist Intern — Team Lead
-
-**Evoastra Ventures Pvt. Ltd.**
-
-Led a cross-functional team of 20+ interns while working on an end-to-end AI and Data Science capstone focused on Supply Chain Analytics.
-
-**Focus:** Data Analytics • Machine Learning • AI Systems • Application Deployment
-
----
-
-### Python Developer Intern
-
-**SR India**
-
-Worked on exploratory data analysis, data visualization, machine learning, and numerical computing projects using Python.
-
-**Focus:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
----
-
-### Data Analytics Intern
-
-**Future Intern**
-
-Worked on business sales performance and marketing funnel analysis using Python-based data analytics workflows.
-
-**Focus:** EDA • Business Analytics • Data Visualization • Python
-
----
-
-# 🏆 Achievements
-
-🎓 **9.44 CPI** — First Year, IIT Patna
-
-🔬 **Selected for Summer Research Internship**
-Department of Computer Science, National Institute of Technology, Delhi
-
-👥 **Led 20+ interns** across a multi-phase AI & Data Science capstone project
-
----
-
-# 📜 Certifications & Simulations
-
-* AWS Certified Data and Machine Learning
-* TCS iON Career Edge — Young Professional
-* HP LIFE — Data Science & Analytics
-* TCS iON Certified YUVA AI — India AI
-* JPMorgan Chase & Co. — Quantitative Research Job Simulation
-* DATACOM — Software Development Job Simulation
-* AI FOR TECHIES — Python Using AI
-
----
+Data Analytics Intern
+├── Business Dataset Analysis
+├── Sales & Profitability Analysis
+├── Marketing Funnel Analysis
+└── Data-Driven Recommendations
 
 # 🎯 Currently
 
