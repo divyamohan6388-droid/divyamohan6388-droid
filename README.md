@@ -38,7 +38,6 @@ Although I’m still in the early stage of my degree, I enjoy building practical
 - 🧠 Worked with datasets containing **180,000+ rows**
 - 🤖 Built projects using Regression, Classification, and Random Forest
 - 👥 Led a team of **20+ interns** during an AI and Data Science project
-- 🔬 Selected for a Summer Research Internship at **NIT Delhi**
 - 🌱 Currently learning advanced ML, statistics, and research-oriented problem solving
 
 ---
@@ -81,66 +80,6 @@ Although I’m still in the early stage of my degree, I enjoy building practical
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 DataLens
-
-**CSV Explorer & Visual Insights Dashboard**
-
-An interactive application for exploring CSV datasets, performing analysis, and generating useful visual insights.
-
-**Tech:** Python · Pandas · NumPy · Streamlit
-
-</td>
-
-<td width="50%">
-
-### 🏠 HomePricer
-
-**ML-Powered House Price Prediction**
-
-A machine learning project involving feature engineering, normalization, regression, model evaluation, and real-time prediction.
-
-**Tech:** Python · Scikit-learn · Linear Regression
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔢 MatrixMaster
-
-**Interactive NumPy Matrix Console**
-
-A numerical computing application supporting matrix arithmetic, determinant, inverse, eigenvalues, rank, and trace operations.
-
-**Tech:** Python · NumPy
-
-</td>
-
-<td width="50%">
-
-### 📈 Business Analytics
-
-**Sales & Marketing Funnel Analysis**
-
-Analytics projects focused on sales performance, profitability, customer segments, marketing channels, and business recommendations.
-
-**Tech:** Python · Pandas · Matplotlib · Seaborn
-
-</td>
-</tr>
-</table>
-
-> 📌 More projects and improvements are coming soon!
 
 ---
 
