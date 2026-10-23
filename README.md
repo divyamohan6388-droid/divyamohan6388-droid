@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Divya%20Mohan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Analytics+Student;Data+Science+%7C+Machine+Learning+Enthusiast;Python+Developer+%7C+Problem+Solver;Building+Projects+with+Data+and+AI;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Indian+Institue+Of+Technology+Patna;Data+Science+%7C+Machine+Learning+Enthusiast;Python+Developer+%7C+Problem+Solver;Building+Projects+with+Data+and+AI;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
