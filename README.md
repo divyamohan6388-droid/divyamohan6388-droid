@@ -25,11 +25,11 @@
 
 ## 👋 About Me
 
-🎓 I’m **Divya Mohan**, pursuing a **B.S. in Computer Science and Data Analytics at IIT Patna**.
+🎓 I am an undergraduate at **Indian Institute of Technology Patna**, pursuing a BS in Computer Science and Data Analytics.
 
-I’m interested in **Data Science, Machine Learning, Artificial Intelligence, Statistical Learning, and Python development**.
+My interests lie at the intersection of **Data Science, Statistics, Machine Learning, and Artificial Intelligence**. I enjoy exploring how mathematical foundations, statistical reasoning, and computational methods can be combined to understand complex problems and build meaningful solutions.
 
-Although I’m still in the early stage of my degree, I enjoy building practical projects and exploring how data can be transformed into useful insights and intelligent solutions.
+I believe in learning by building, questioning assumptions, and understanding the principles behind the models and systems I develop.
 
 ### ⚡ Quick Facts
 
@@ -83,25 +83,54 @@ Although I’m still in the early stage of my degree, I enjoy building practical
 
 ---
 
-## 💼 Experience Highlights
+## Areas of Interest
 
-```text
-Python Developer Intern
-├── Exploratory Data Analysis
-├── Data Visualization
-├── Linear Regression Pipeline
-├── Model Evaluation
-└── NumPy Matrix Operations Console
+- **Data Science & Analytics** — Data exploration, statistical analysis, and extracting meaningful insights.
+- **Statistics & Probability** — Statistical inference, hypothesis testing, and mathematical modelling.
+- **Machine Learning** — Predictive modelling, classification, model evaluation, and interpretation.
+- **Artificial Intelligence** — Intelligent systems, applied AI, and research-oriented problem solving.
+- **Research & Experimentation** — Evidence-driven approaches, reproducible experiments, and analytical thinking.
 
-Data Scientist Intern / Team Lead
-├── Led 20+ interns
-├── Supply Chain Analytics
-├── Data Cleaning on 180,000+ rows
-├── Logistic Regression
-└── Random Forest
+---
 
-Data Analytics Intern
-├── Business Dataset Analysis
-├── Sales & Profitability Analysis
-├── Marketing Funnel Analysis
-└── Data-Driven Recommendations
+## Selected Projects
+
+### 01. Real-Time Content Moderation & Spam Filter
+**Machine Learning · NLP · Streamlit**
+
+An end-to-end machine learning application designed to classify user-generated text into clean, abusive, and spam categories.
+
+- Developed a text classification pipeline using TF-IDF.
+- Implemented Multinomial Naive Bayes and Logistic Regression.
+- Integrated prediction probabilities and real-time classification.
+- Built and deployed an interactive Streamlit application.
+
+**[Live Application](https://divya-aegis-ai.streamlit.app/) · [Source Code](https://github.com/divyamohan6388-droid/Real-Time-Content-Moderation)**
+
+### 02. Cardiovascular Risk Prediction Pipeline
+
+**Statistical Learning · Healthcare Analytics · Machine Learning**
+
+A research-oriented project exploring cardiovascular disease prediction through statistical analysis and interpretable machine learning.
+
+- Working with the UCI Heart Disease dataset.
+- Conducting exploratory data analysis and preprocessing.
+- Investigating Logistic Regression as a predictive modelling approach.
+- Evaluating models using accuracy, recall, ROC-AUC, and cross-validation.
+- Exploring model interpretation and the relationship between clinical features and predictions.
+
+[**Source Code**](https://github.com/divyamohan6388-droid/Cardiovascular-risk-prediction)
+
+### 03. Logistics Analytics & Shipment Delay Prediction
+
+**Data Analytics · Business Intelligence · Data Visualisation**
+
+An analytical project focused on understanding logistics operations, identifying performance patterns, and extracting actionable business insights from operational data.
+
+- Analysing logistics and operational datasets.
+- Exploring delivery performance and shipment trends.
+- Identifying patterns in operational efficiency and delays.
+- Developing data-driven insights to support logistics decision-making.
+- Applying analytical and visualisation techniques to communicate findings.
+
+[**Source Code**](https://github.com/divyamohan6388-droid/Logistics-Analytics-Shipment-Delay-Prediction)
